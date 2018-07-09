@@ -1,0 +1,14 @@
+{
+  "name": "predict-square",
+  "version": "1.0.0",
+  "description": "Predicting squares of number using TensorflowJS",
+  "main": "kfc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "PA",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs": "^0.11.7"
+  }
+}
