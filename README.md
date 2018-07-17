@@ -16,7 +16,7 @@ Okay , mathematically if you plot the graph of different  numbers and its square
 ## Getting Started
 These instructions will get up running the project on your local machine.
 ```
-git clone git@github.com:PranjalAgni/cuddly-octo-robot.git
+git clone git@github.com:PranjalAgni/Polynomial-Regression-in-Javascript.git
 ```
 ## Built With
 
